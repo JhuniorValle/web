@@ -1,0 +1,21 @@
+body {
+    background: #F8F9FA;
+  }
+  .card {
+    background-color: #c7a17a;
+    border-color: #c7a17a;
+  }
+  .btn-primary {
+    background-color: #c7a17a;
+    border-color: #c7a17a;
+  }
+  .btn-primary:hover {
+    background-color: #b08b6a;
+    border-color: #b08b6a;
+  }
+  .link-primary {
+    color: #c7a17a;
+  }
+  .link-primary:hover {
+    color: #b08b6a;
+  }
